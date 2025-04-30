@@ -6,7 +6,7 @@ Currently, the user must import their own credentials from the Google Cloud Cons
 PROJECT STILL IN DEVELOPMENT
 
 Next Steps:
-1. The program does not achieve 100% accuracy; I am working on addressing issues related to misclassification.
+1. The program does not achieve 100% accuracy; I am working on addressing issues related to a lack of classification.
 
 2. I plan to implement a different methodology for auto-labeling, as the current version is not very accessible or user-friendly.
 
