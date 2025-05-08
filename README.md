@@ -1,4 +1,4 @@
-# Python---Gmail-Sorter-Using-Gmail-API-v0.5
+# Python---Gmail-Sorter-Using-Gmail-API-v0.2
 This program was designed to auto-label my Gmail account for emails regarding university admissions, and can be repurposed for any need. It uses Google's Gmail API and its associated Cloud Console credentials to authenticate access to Gmail, fetch emails, and apply designated labels based on keyword filters. OAuth 2.0 is used for secure authorization. The program supports full inbox scanning with pagination and processes both email snippets and MIME-formatted bodies for greater accuracy when classifying.
 
 Currently, the user must import their own credentials from the Google Cloud Console into the same directory as the Python script to operate the function (see instructions below).
